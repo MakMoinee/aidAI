@@ -1,0 +1,31 @@
+text,label
+"I need financial aid for medical expenses.",Money Request
+"Can I request money for food supplies?",Money Request
+"We need funds to rebuild our damaged house.",Money Request
+"Please send financial assistance for school fees.",Money Request
+"We require monetary support to buy essentials.",Money Request
+"I need money to pay for transportation costs.",Money Request
+"Our community needs funding for clean water access.",Money Request
+"I would like to apply for cash aid for rent.",Money Request
+"Requesting funds for emergency relief.",Money Request
+"Is it possible to get financial help for hospital bills?",Money Request
+"The funds were delayed by two days.",Feedback
+"The amount I received was less than expected.",Feedback
+"There was confusion about the exact amount transferred.",Feedback
+"I haven't received the funds yet.",Feedback
+"The transfer process was very slow.",Feedback
+"Some recipients received incorrect amounts.",Feedback
+"The organization took too long to approve my request.",Feedback
+"The aid distribution process lacked transparency.",Feedback
+"I faced issues while withdrawing the funds.",Feedback
+"The funds were transferred to the wrong wallet.",Feedback
+"I want to report missing funds.",Report
+"The aid money was not properly distributed.",Report
+"There are cases of fraudulent claims.",Report
+"I suspect that someone is misusing the aid funds.",Report
+"There are duplicate claims in the blockchain system.",Report
+"The fund transfer was canceled without reason.",Report
+"Some recipients never received their payments.",Report
+"I want to report unauthorized access to my wallet.",Report
+"There was an error in the blockchain record of my transaction.",Report
+"The aid organization didn't verify the recipients properly.",Report
